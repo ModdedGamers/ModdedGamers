@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**ModdedGamers/ModdedGamers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mr Hedgehog, an 11th grader at Arlington Tech studying with @jelkner and my fellow students!
+---
+Quick facts:
+- Pronouns: They/Them
+- Favorite Programming languages: Rust, Lua, Python
+- Hobbies: Programming, Cybersecurity, Reading, Biking
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ModdedGamers&show_icons=true&theme=github_dark&hide_border=true" />
+</a>
