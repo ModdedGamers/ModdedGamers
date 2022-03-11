@@ -24,5 +24,3 @@ Terminal user of ![https://starship.rs](https://img.shields.io/badge/starship-DD
 Don't support a browser monoculture, use ![https://firefox.com](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 ![https://github.com/ModdedGamers](https://github-readme-stats.vercel.app/api?username=ModdedGamers&show_icons=true&theme=github_dark&hide_border=true)
-
-![https://github.com/ModdedGamers](https://github-profile-trophy.vercel.app/?username=ModdedGamers)
