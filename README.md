@@ -5,7 +5,7 @@ I'm Mr Hedgehog, an 11th grader at Arlington Tech studying with @jelkner and my 
 ## Quick facts:
 - Pronouns: **Xey/Xem**(*preferred*), **They/Them**(*ok, but not preferred*) 
 - Hobbies: Programming, Cybersecurity, Reading, Biking
-
+- Follow me on <a rel="me" href="https://fosstodon.org/@thehedgeh0g">Mastodon</a>!
 ---
 ## Technologies I work with:
 
