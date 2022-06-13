@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Mr Hedgehog, an 11th grader at Arlington Tech studying with @jelkner and my fellow students!
+I'm The Hedgehog, an 12th grader at Arlington Tech studying with @jelkner and my fellow students!
 ---
 ## Quick facts:
 - Pronouns: **Xey/Xem**(*preferred*), **They/Them**(*ok, but not preferred*) 
