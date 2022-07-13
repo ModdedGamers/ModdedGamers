@@ -1,11 +1,11 @@
 ### Hi there!
 
-I'm The Hedgehog, an 12th grader at Arlington Tech studying with @jelkner and my fellow students!
+I'm The Hedgehog, a sysadmin, FOSS enthusiast, NixOS user, and geek. I'm interested in declarative systems management and self-hosting.
 ---
 ## Quick facts:
 - Pronouns: **Xey/Xem**(*preferred*), **They/Them**(*ok, but not preferred*) 
 - Hobbies: Programming, Cybersecurity, Reading, Biking
-- Follow me on <a rel="me" href="https://fosstodon.org/@thehedgeh0g">Mastodon</a>!
+- Follow me on <a rel="me" href="https://fosstodon.org/@thehedgeh0g">FOSStodon</a>!
 ---
 ## Technologies I work with:
 
