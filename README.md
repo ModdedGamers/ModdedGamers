@@ -8,7 +8,8 @@
 ## Quick facts:
 - Pronouns: **Xey/Xem**(*preferred*), **They/Them**(*ok, but not preferred*) 
 - Hobbies: Programming, Cybersecurity, Reading, Biking
-- Follow me on <a rel="me" href="https://fosstodon.org/@thehedgeh0g">FOSStodon</a>!
+- Follow me on [Mastodon](https://fosstodon.org/@thehedgeh0g)
+- For more info on who I am, please visit https://en.pronouns.page/@thehedgeh0g.
 ---
 ## Technologies I work with:
 
@@ -28,7 +29,7 @@
 
 #### Industry Certified in Adobe Photoshop and Illustrator.
 
-#### I use ![Neovim](https://neovim.io) as my IDE.
+#### I use [Neovim](https://neovim.io) as my IDE.
 
 #### I use [Arch Linux](https://archlinux.org) and [NixOS](https://nixos.org) as my Operating Systems.
 
