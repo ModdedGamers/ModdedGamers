@@ -1,5 +1,5 @@
 # Hi there!
-![profile_out](https://user-images.githubusercontent.com/35778371/178773636-be17334b-9e0d-4fae-a08c-89c3631460aa.png)
+![My Profile Picture](https://user-images.githubusercontent.com/35778371/179013197-e6ac8753-96f3-480f-ab9c-912315629fd1.png)
 
 
 ### I'm The Hedgehog, a sysadmin, FOSS enthusiast, NixOS user, and geek.
