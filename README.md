@@ -1,7 +1,4 @@
 # Hi there!
-![My Profile Picture](https://user-images.githubusercontent.com/35778371/179013197-e6ac8753-96f3-480f-ab9c-912315629fd1.png)
-
-
 ### I'm The Hedgehog, a sysadmin, FOSS enthusiast, NixOS user, and geek.
 ### I'm interested in declarative systems management and self-hosting.
 ---
