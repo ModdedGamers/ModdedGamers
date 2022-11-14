@@ -25,10 +25,10 @@
 
 ---
 
-#### Industry Certified in Adobe Photoshop and Illustrator.
+#### Adobe Certified in Photoshop, Illustrator, and Graphic Design.
 
 #### I use [Neovim](https://neovim.io) as my IDE.
 
-#### I use [Arch Linux](https://archlinux.org) and [NixOS](https://nixos.org) as my Operating Systems.
+#### I use [NixOS](https://nixos.org), btw.
 
 ![https://github.com/theHedgehog0](https://github-readme-stats.vercel.app/api?username=theHedgehog0&show_icons=true&theme=github_dark&hide_border=true)
