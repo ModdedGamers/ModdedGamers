@@ -3,9 +3,9 @@
 ### I'm interested in declarative systems management and self-hosting.
 ---
 ## Quick facts:
-- Pronouns: **Xey/Xem**(*preferred*), **They/Them**(*ok, but not preferred*) 
+- Pronouns: **She/Her** and **They/Them**(*preferred*), **Xey/Xem**(*ok, but not preferred*) 
 - Hobbies: Programming, Cybersecurity, Reading, Biking
-- Follow me on [Mastodon](https://fosstodon.org/@thehedgeh0g)
+- Follow me on [Fedi](https://stop.voring.me/@pyrox)
 - For more info on who I am, please visit https://en.pronouns.page/@thehedgeh0g.
 ---
 ## Technologies I work with:
