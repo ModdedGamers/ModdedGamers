@@ -1,6 +1,7 @@
 # Hi there!
 ### I'm The Hedgehog, a sysadmin, FOSS enthusiast, NixOS user, and geek.
 ### I'm interested in declarative systems management and self-hosting.
+### Most of my projects are at [my git forge](https://git.thehedgehog.me)
 ---
 ## Quick facts:
 - Pronouns: **She/Her** and **They/Them**(*preferred*), **Xey/Xem**(*ok, but not preferred*) 
