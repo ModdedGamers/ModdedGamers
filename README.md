@@ -32,6 +32,6 @@
 
 #### I use [NixOS](https://nixos.org), btw.
 
-I'm running email servers for [https://pyrox.dev](my website), as well as DNS. All of my infrastructure is under what I call PyroNet, which will eventually be a registered AS, and is already an AS under **DN42**.
+I'm running email servers for [my website](https://pyrox.dev), as well as DNS. All of my infrastructure is under what I call PyroNet, which will eventually be a registered AS, and is already an AS under **DN42**.
 
 ![https://github.com/theHedgehog0](https://github-readme-stats.vercel.app/api?username=theHedgehog0&show_icons=true&theme=github_dark&hide_border=true)
