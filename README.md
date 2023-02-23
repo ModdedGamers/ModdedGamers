@@ -6,7 +6,7 @@
 ## Quick facts:
 - Pronouns: **She/Her** and **They/Them**(*preferred*), **Xey/Xem**(*ok, but not preferred*) 
 - Hobbies: Programming, Cybersecurity, Reading, Biking
-- Follow me on [Fedi](https://stop.voring.me/@pyrox)
+- Follow me on [Fedi](https://social.pyrox.dev/@pyrox)
 - For more info on who I am, please visit https://en.pronouns.page/@thehedgeh0g.
 ---
 ## Technologies I work with:
