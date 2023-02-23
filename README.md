@@ -1,5 +1,5 @@
 # Hi there!
-### I'm The Hedgehog, a sysadmin, FOSS enthusiast, NixOS user, and geek.
+### I'm Pyrox, a sysadmin, FOSS enthusiast, NixOS user, and geek.
 ### I'm interested in declarative systems management and self-hosting.
 ### Most of my projects are at [my git forge](https://git.thehedgehog.me)
 ---
@@ -31,5 +31,7 @@
 #### I use [Neovim](https://neovim.io) as my IDE.
 
 #### I use [NixOS](https://nixos.org), btw.
+
+I'm running email servers for [https://pyrox.dev](my website), as well as DNS. All of my infrastructure is under what I call PyroNet, which will eventually be a registered AS, and is already an AS under **DN42**.
 
 ![https://github.com/theHedgehog0](https://github-readme-stats.vercel.app/api?username=theHedgehog0&show_icons=true&theme=github_dark&hide_border=true)
