@@ -1,13 +1,11 @@
 # Hi there!
 ### I'm Pyrox, a sysadmin, FOSS enthusiast, NixOS user, and geek.
 ### I'm interested in declarative systems management and self-hosting.
-### Most of my projects are at [my git forge](https://git.thehedgehog.me)
+### Most of my projects are at [my git forge](https://git.pyrox.dev)
 ---
 ## Quick facts:
-- Pronouns: **She/Her** and **They/Them**(*preferred*), **Xey/Xem**(*ok, but not preferred*) 
 - Hobbies: Programming, Cybersecurity, Reading, Biking
-- Follow me on [Fedi](https://social.pyrox.dev/@pyrox)
-- For more info on who I am, please visit https://en.pronouns.page/@thehedgeh0g.
+- Running my own services at home, thanks to NixOS.
 ---
 ## Technologies I work with:
 
