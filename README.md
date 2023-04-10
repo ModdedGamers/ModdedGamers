@@ -5,7 +5,7 @@ Sysadmin, technologist, nerd, and self-hoster
 - Hobbies: Programming, Cybersecurity, Reading, Biking
 - Running my own services at home
 - Running DNS and Email.
-- On the fediverse [@pyrox](https://https://social.pyrox.dev/pyrox)
+- On the fediverse [@pyrox](https://social.pyrox.dev/pyrox)
 ## Technologies I work with:
 
 ![https://rust-lang.org](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
