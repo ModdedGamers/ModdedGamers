@@ -1,12 +1,11 @@
-# Hi there!
-### I'm Pyrox, a sysadmin, FOSS enthusiast, NixOS user, and geek.
-### I'm interested in declarative systems management and self-hosting.
-### Most of my projects are at [my git forge](https://git.pyrox.dev)
+# Pyrox
+Sysadmin, technologist, nerd, and self-hoster
 ---
 ## Quick facts:
 - Hobbies: Programming, Cybersecurity, Reading, Biking
-- Running my own services at home, thanks to NixOS.
----
+- Running my own services at home
+- Running DNS and Email.
+- On the fediverse [@pyrox](https://https://social.pyrox.dev/pyrox)
 ## Technologies I work with:
 
 ![https://rust-lang.org](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
