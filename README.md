@@ -2,6 +2,8 @@
 Sysadmin, technologist, nerd, and self-hoster
 ---
 ## Quick facts:
+![Pronouns: It/She/They](https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F6202ad6df0cf73b1a319f7dd.json&style=for-the-badge&labelColor=%23cdd6f4&color=%231e1e2e)
+
 - Hobbies: Programming, Cybersecurity, Reading, Biking
 - Running my own services at home
 - Running DNS and Email.
