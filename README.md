@@ -10,7 +10,7 @@
 | ![I/O Bot](https://img.shields.io/badge/I%2FO%20Bot-11111b?style=for-the-badge&labelColor=181825) | *[I/O Bot Repo](https://git.pyrox.dev/pyrox/io-bot)* | **Python, Nix** |
 |  ![Nix Config](https://img.shields.io/badge/Nix%20Config-11111b?style=for-the-badge&labelColor=181825) | *[Nix Config Repo](https://git.pyrox.dev/pyrox/nix)* | **Nix** |
 | ![My Blog](https://img.shields.io/badge/My%20Blog-11111b?style=for-the-badge&labelColor=181825) | *[Blog Repo](https://git.pyrox.dev/pyrox/blog)* | **HTML, CSS, Nix** |
-| ![Iceshrimp](https://img.shields.io/badge/Iceshrimp-11111b?style=for-the-badge&labelColor=181825) | *[Iceshrimp Repo](https://iceshrimp.dev/iceshrimp/iceshrimp)* | **Vue, Typescript, Nix** |
+| ![VGArchive](https://img.shields.io/badge/VGArchive-11111b?style=for-the-badge&labelColor=181825) | *[VGArchive Repo](https://git.pyrox.dev/pyrox/vgarchive)* | **Django, HTML, CSS, Nix** |
 
 
 <h2>Quick facts</h2>
